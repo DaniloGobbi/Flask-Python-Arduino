@@ -1,0 +1,35 @@
+button {
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+}
+
+.bverde {
+    border-color: green;
+    color: green;
+}
+
+.bvermelho {
+    border-color: red;
+    color: red;
+}
+
+.bamarelo {
+    border-color: yellow;
+    color: yellow;
+}
+
+.bverde:hover {
+    background-color: #00800040;
+    cursor: pointer;
+}
+
+.bvermelho:hover {
+    background-color: #ff000040;
+    cursor: pointer;
+}
+
+.bamarelo:hover {
+    background-color: #ffff0040;;
+    cursor: pointer;
+ }
